@@ -1,6 +1,6 @@
 from fastapi import FastAPI, Query
 from typing import List, Optional
-const port = process.env.PORT || 4000;
+
 app = FastAPI()
 
 data = [
