@@ -236,3 +236,9 @@ async def get_characters(
     paginated_data = filtered_data[start_index:end_index]
 
     return paginated_data
+
+
+
+@app.get("/characters")
+async def get_characters(name: str, page: int = 1, size: int = 5):
+    return {"name": name, "page": page, "size": size}
