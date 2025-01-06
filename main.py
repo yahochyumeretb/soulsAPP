@@ -218,7 +218,15 @@ data = [
 ]
 
 
+from fastapi.middleware.cors import CORSMiddleware
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Настройте это для ограничения источников при необходимости
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/characters/")
 async def get_characters(
