@@ -12,7 +12,7 @@ data = [
     "title": "Knight of Gwyn",
     "family": "Knight",
     "image": "artorias.jpg",
-    "imageUrl": "https://example.com/assets/images/artorias.jpg"
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/1860545533328730273/F2DA39B5EFA14023551FCA4A6AE26D1C0430B792/?imw=512&amp;imh=328&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
   },
   {
     "id": 1,
@@ -22,7 +22,7 @@ data = [
     "title": "Warrior of Sunlight",
     "family": "Astora",
     "image": "solaire.jpg",
-    "imageUrl": "https://example.com/assets/images/solaire.jpg"
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/1860545533328730273/F2DA39B5EFA14023551FCA4A6AE26D1C0430B792/?imw=512&amp;imh=328&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
   },
   {
     "id": 2,
@@ -32,7 +32,7 @@ data = [
     "title": "Lord of Cinder",
     "family": "Lord",
     "image": "gwyn.jpg",
-    "imageUrl": "https://example.com/assets/images/gwyn.jpg"
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/1860545533328730273/F2DA39B5EFA14023551FCA4A6AE26D1C0430B792/?imw=512&amp;imh=328&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@ data = [
     "title": "Daughter of Gwyn",
     "family": "Lord",
     "image": "gwynevere.jpg",
-    "imageUrl": "https://example.com/assets/images/gwynevere.jpg"
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/1860545533328730273/F2DA39B5EFA14023551FCA4A6AE26D1C0430B792/?imw=512&amp;imh=328&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
   },
   {
     "id": 4,
@@ -52,7 +52,7 @@ data = [
     "title": "Guardian of Artorias",
     "family": "Wolf",
     "image": "sif.jpg",
-    "imageUrl": "https://example.com/assets/images/sif.jpg"
+    "imageUrl": "https://steamuserimages-a.akamaihd.net/ugc/1860545533328730273/F2DA39B5EFA14023551FCA4A6AE26D1C0430B792/?imw=512&amp;imh=328&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
   },
   {
     "id": 5,
