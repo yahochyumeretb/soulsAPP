@@ -243,4 +243,4 @@ async def get_characters(
 
     return paginated_data
 
-Найти еще
+
