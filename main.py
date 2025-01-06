@@ -231,14 +231,8 @@ async def get_characters(
         if fullName else data
     )
 
-    start_index = (page-1) * size
+    start_index = (page - 1) * size
     end_index = page * size
     paginated_data = filtered_data[start_index:end_index]
 
     return paginated_data
-
-
-
-@app.get("/characters")
-async def get_characters(name: str, page: int = 1, size: int = 5):
-    return {"name": name, "page": page, "size": size}
