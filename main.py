@@ -214,8 +214,8 @@ data = [
 "image": "lothric.jpg",
 "imageUrl": "https://example.com/assets/images/lothric.jpg"
 }
-
 ]
+
 
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -229,13 +229,14 @@ allow_headers=["*"],
 
 @app.get("/characters/")
 async def get_characters(
-fullName: Optional[str] = Query(None, description="Поиск по имени"),
-page: int = Query(1, ge=1, description="Номер страницы"),
-size: int = Query(10, ge=1, description="Размер страницы")
+  fullName: Optional[str] = Query(None, description="Поиск по имени"),
+    page: int = Query(1, ge=1, description="Номер страницы"),
+    size: int = Query(10, ge=1, description="Размер страницы")
 ) -> List[dict]:
 filtered_data = (
 [item for item in data if fullName.lower() in item["fullName"].lower()]
-if fullName else data
+if fullName
+  else data
 )
 
 start_index = (page - 1) * size
