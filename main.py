@@ -223,11 +223,8 @@ from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List, Optional
 
-app = FastAPI()
 
-data = [
-    # Your character data here
-]
+
 
 app.add_middleware(
     CORSMiddleware,
@@ -261,29 +258,3 @@ async def get_characters(
 
 
 
-from fastapi.middleware.cors import CORSMiddleware
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # Настройте это для ограничения источников при необходимости
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-@app.get("/characters/")
-async def get_characters(
-    fullName: Optional[str] = Query(None, description="Поиск по имени"),
-    page: int = Query(1, ge=1, description="Номер страницы"),
-    size: int = Query(10, ge=1, description="Размер страницы")
-) -> List[dict]:
-    filtered_data = (
-        [item for item in data if fullName.lower() in item["fullName"].lower()]
-        if fullName else data
-    )
-
-    start_index = (page - 1) * size
-    end_index = page * size
-    paginated_data = filtered_data[start_index:end_index]
-
-    return paginated_data
