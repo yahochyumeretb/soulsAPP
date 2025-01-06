@@ -12,7 +12,7 @@ data = [
 "title": "Knight of Gwyn",
 "family": "Knight",
 "image": "artorias.jpg",
-"imageUrl": "https://example.com/assets/images/artorias.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 1,
@@ -22,7 +22,7 @@ data = [
 "title": "Warrior of Sunlight",
 "family": "Astora",
 "image": "solaire.jpg",
-"imageUrl": "https://example.com/assets/images/solaire.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 2,
@@ -32,7 +32,7 @@ data = [
 "title": "Lord of Cinder",
 "family": "Lord",
 "image": "gwyn.jpg",
-"imageUrl": "https://example.com/assets/images/gwyn.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 3,
@@ -42,7 +42,7 @@ data = [
 "title": "Daughter of Gwyn",
 "family": "Lord",
 "image": "gwynevere.jpg",
-"imageUrl": "https://example.com/assets/images/gwynevere.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 4,
@@ -52,7 +52,7 @@ data = [
 "title": "Guardian of Artorias",
 "family": "Wolf",
 "image": "sif.jpg",
-"imageUrl": "https://example.com/assets/images/sif.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 5,
@@ -62,7 +62,7 @@ data = [
 "title": "Duke of the Crystal",
 "family": "Dragon",
 "image": "seath.jpg",
-"imageUrl": "https://example.com/assets/images/seath.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 6,
@@ -72,7 +72,7 @@ data = [
 "title": "Father of the Abyss",
 "family": "Human",
 "image": "manus.jpg",
-"imageUrl": "https://example.com/assets/images/manus.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 7,
@@ -82,7 +82,7 @@ data = [
 "title": "Knight of the Cathedral",
 "family": "Knight",
 "image": "ornstein.jpg",
-"imageUrl": "https://example.com/assets/images/ornstein.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 8,
@@ -92,7 +92,7 @@ data = [
 "title": "Executioner of the Cathedral",
 "family": "Knight",
 "image": "smough.jpg",
-"imageUrl": "https://example.com/assets/images/smough.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 9,
@@ -102,7 +102,7 @@ data = [
 "title": "Lord of Death",
 "family": "Lord",
 "image": "nito.jpg",
-"imageUrl": "https://example.com/assets/images/nito.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 10,
@@ -112,7 +112,7 @@ data = [
 "title": "Lady of the Painted World",
 "family": "Hybrid",
 "image": "priscilla.jpg",
-"imageUrl": "https://example.com/assets/images/priscilla.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 11,
@@ -122,7 +122,7 @@ data = [
 "title": "Great Archer",
 "family": "Knight",
 "image": "gough.jpg",
-"imageUrl": "https://example.com/assets/images/gough.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 12,
@@ -132,7 +132,7 @@ data = [
 "title": "Lord of the Profaned Capital",
 "family": "Giant",
 "image": "yhorm.jpg",
-"imageUrl": "https://example.com/assets/images/yhorm.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 13,
@@ -142,7 +142,7 @@ data = [
 "title": "Prince of Lothric",
 "family": "Royalty",
 "image": "lothric.jpg",
-"imageUrl": "https://example.com/assets/images/lothric.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 14,
@@ -152,7 +152,7 @@ data = [
 "title": "Keeper of the Flame",
 "family": "Fire",
 "image": "emma.jpg",
-"imageUrl": "https://example.com/assets/images/emma.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 15,
@@ -162,7 +162,7 @@ data = [
 "title": "Watchers of the Abyss",
 "family": "Knight",
 "image": "farron.jpg",
-"imageUrl": "https://example.com/assets/images/farron.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 16,
@@ -172,7 +172,7 @@ data = [
 "title": "Champion of Ash",
 "family": "Ash",
 "image": "gundyr.jpg",
-"imageUrl": "https://example.com/assets/images/gundyr.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 17,
@@ -182,7 +182,7 @@ data = [
 "title": "Eldest of Lothric",
 "family": "Royalty",
 "image": "lorian.jpg",
-"imageUrl": "https://example.com/assets/images/lorian.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 18,
@@ -192,7 +192,7 @@ data = [
 "title": "Ancient Dragon",
 "family": "Dragon",
 "image": "midir.jpg",
-"imageUrl": "https://example.com/assets/images/midir.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 19,
@@ -202,7 +202,7 @@ data = [
 "title": "Master of Sorcery",
 "family": "Sage",
 "image": "vinheim.jpg",
-"imageUrl": "https://example.com/assets/images/vinheim.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 },
 {
 "id": 20,
@@ -212,7 +212,7 @@ data = [
 "title": "Prince of Lothric",
 "family": "Royalty",
 "image": "lothric.jpg",
-"imageUrl": "https://example.com/assets/images/lothric.jpg"
+"imageUrl": "https://avatars.mds.yandex.net/i?id=6f98fd5062453d73cdf62874cb0493ea_l-5234162-images-thumbs&n=13"
 }
 ]
 
