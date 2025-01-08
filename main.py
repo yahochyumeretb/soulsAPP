@@ -97,7 +97,7 @@ data = [
 ]
 
 
-@app.get("/recipes/")
+@app.get("/characters/")
 async def get_characters(
     fullName: Optional[str] = Query(None, description="Поиск по имени"),
     page: int = Query(1, ge=1, description="Номер страницы"),
