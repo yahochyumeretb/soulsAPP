@@ -10,7 +10,7 @@ data = [
         "name": "Artorias",
         "description": "Delicate cake with cocoa",
         "calories": "350 kcal per serving",
-        "image": "https://i.pinimg.com/736x/9b/36/f0/9b36f04319f5e4f615af7abc7679fe8d.jpg"
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/1860545533328730273/F2DA39B5EFA14023551FCA4A6AE26D1C0430B792/?imw=512&amp;imh=328&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"
     }
   },
   {
