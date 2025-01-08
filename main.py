@@ -3,7 +3,7 @@ from typing import List, Optional
 
 app = FastAPI()
 
-data = [
+characters = [
   {
     "id": 0,
     "firstName": "Artorias",
