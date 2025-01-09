@@ -150,104 +150,104 @@ data = [
     "id": "12",
     "attributes": {
         "name": "Gwynevere, Princess of Sunlight",
-        "shortdescription": "",
-        "location":"",
-        "health":"",
-        "soul":"",
-        "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "shortdescription": "Дочь Повелителя Пепла и лидер ковенанта Стражи Принцессы.",
+        "location":"Анор Лондо",
+        "health":"-",
+        "soul":"-",
+        "items":"Великая Чаша",
+        "description": "Одна из трёх детей Гвина и глава ковенанта Стражи Принцессы. Найти её можно во время прохождения игры в локации Анор Лондо",
+        "image": "https://i.playground.ru/p/dsQO2EP_vCWvJibdzGsSNA.jpeg"
     }
   },
   {
     "id": "13",
     "attributes": {
          "name": "Hawkeye Gough",
-       "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+       "shortdescription": "Командир великих лучников, которые в начале Эры Огня успешно сражались с драконами",
+      "location":"Поселок Олачиль",
+      "health":"-",
+      "soul":"20,000",
+      "items":"Сет Гоха,Большой лук Гоха",
+        "description": "вое умение мастерски стрелять великан подтверждает, когда, будучи ослепленным, одним точным выстрелом сбивает Каламита. Причина ослепления в том, что щели для глаз в его шлеме запечатали древесной смолой те, кто ошибочно считал его жестоким великаном. На самом деле Гох очень миролюбив, уважительно обращается к игроку и довольно тепло отзывается о Кузнеце великане из Анор Лондо. Подтверждением их знакомства является спрятанное за великаном Кольцо с ястребом, собственность Соколиного Глаза.",
+        "image": "https://avatars.mds.yandex.net/i?id=4f58c3b6ed78c35785d7453223d2854a_l-5255188-images-thumbs&n=13"
     }
   },
   {
     "id": "14",
     "attributes": {
          "name": "Griggs of Vinheim",
-       "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+       "shortdescription": "Тихий, скромный волшебник из Винхейма. Является учеником Логана Большой Шляпы.",
+      "location":"Нижний Город Нежити → Храм Огня → Крепость Сена",
+      "health":"-",
+      "soul":"1000",
+      "items":"Кольцо с дремлющим драконом, Бесшумность, Человечность",
+        "description": "Заперт в комнате в нижней части Города Нежити — как спуститесь с лестницы сразу направо, за заросший колодец. Он искал своего учителя, но не смог найти. Когда подойдёте к его двери, он позовёт на помощь. Дверь открывается с помощью ключа от жилища, который продаётся у Нежити-торговца.",
+        "image": "https://avatars.mds.yandex.net/i?id=5d9d1389f6cc7386eaed765e23d39f7a_l-4558237-images-thumbs&n=13"
     }
   },
   {
     "id": "15",
     "attributes": {
          "name": "Batwing Demon",
-         "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+         "shortdescription": "Небольшой летающий демон, который имеет опасное оружие — Демоническое копьё.",
+      "location":"Анор Лондо",
+      "health":"419, 734 (NG+)",
+      "soul":"500,1500 (NG+),1875 (NG+6)",
+      "items":"Демоническое копье",
+        "description": "Небольшой летающий демон, который имеет опасное оружие — Демоническое копьё. При первой встрече дружественные демоны переносят протагониста в кат-сцене из Крепости Сена в Анор Лондо. Позднее встретятся такие же демоны, уже враждебно настроенные, которые являются довольно неприятными противниками.",
+        "image": "https://i.playground.ru/p/AUI6ZPbU27UJLlGdxW1ttQ.jpeg"
     }
   },
   {
     "id": "16",
     "attributes": {
          "name": "Domhnall of Zena",
-        "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "shortdescription": "персонаж-торговец",
+      "location":"Глубины → Храм Огня",
+      "health":"-",
+      "soul":"1000",
+      "items":"-",
+        "description": "персонаж-торговец",
+        "image": "https://static.wikia.nocookie.net/darksouls/images/d/dc/Домналл_из_Зены.png/revision/latest?cb=20130327105547&path-prefix=ru"
     }
   },
   {
     "id": "17",
     "attributes": {
          "name": "Dusk of Oolacile",
-        "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
+        "shortdescription": "персонаж-торговец",
+      "location":"Озеро Темных Корней → Ущелье Бездны",
+      "health":"-",
+      "soul":"1000",
       "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "description": "персонаж-торговец",
+        "image": "https://static.wikia.nocookie.net/darksouls/images/c/cf/Заря_Олачиля.jpg/revision/latest?cb=20161013180646&path-prefix=ru"
     }
   },
   {
     "id": "18",
     "attributes": {
          "name": "Chosen Undead",
-        "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "shortdescription": "протагонист игры",
+      "location":"-",
+      "health":"-",
+      "soul":"-",
+      "items":"-",
+        "description": "Избранный Мертвец был заточен в Северном Прибежище Нежити и доживал свои последние дни, будучи опустошённым, но ещё сохранившим остатки разума, в окружении полых, к которым он скоро присоединился, если бы не помощь Оскара, который помог ему выбраться из камеры. Выбравшись, он пошел искать своего спасителя, но опоздал — герой находит Оскара умирающим от ран в результате падения. Избранный успел дойти до рыцаря и тот, на смертном одре, попросил Избранного об одном одолжении. Рыцарь рассказал ему о пророчестве, об Избранном Мертвеце, который изменит судьбу всей нежити и избавит её от проклятия. Для этого нужно было отправиться в земли древних Повелителей, в Лордран, и, ударив в Колокол, узнать судьбу нежити. Рассказав это и отдав Избранному Флягу с Эстусом, Оскар скончался. Возле выхода из Прибежища перед Избранным появляется Демон. После победы ему ничто не препятствовало, и Мертвец отправился в древние земли Повелителей, Лордран, чтобы найти свою судьбу.",
+        "image": "https://static.wikia.nocookie.net/darksouls/images/5/5e/Избранный_Немертвый.png/revision/latest?cb=20171105205903&path-prefix=ru"
     }
   },
   {
     "id": "19",
     "attributes": {
          "name": "Ingward",
-       "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+       "shortdescription": "Последний из трех Хранителей Печати, оставшийся в Руинах Нового Лондо",
+      "location":"Руины Нового Лондо → Храм Огня",
+      "health":"-",
+      "soul":"1000",
+      "items":"Ключ от Печати",
+        "description": "Последний из трех Хранителей Печати, оставшийся в Руинах Нового Лондо, дабы сдерживать Темных духов и Четырех Королей. Он даст вам Ключ от Печати после получения Великой Чаши. Он нужен, чтобы слить воду из Руин и открыть путь к Четырем королям.",
+        "image": "https://static.wikia.nocookie.net/darksouls/images/b/b7/Ингвард.jpg/revision/latest?cb=20130421140422&path-prefix=ru"
     }
   },
   {
@@ -267,78 +267,78 @@ data = [
     "id": "21",
     "attributes": {
          "name": "Stone Dragon",
-         "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+         "shortdescription": "один из двух изначальных змеев, которых игрок может встретить в игре.",
+      "location":"Бездна",
+      "health":"-",
+      "soul":"-",
+      "items":"-",
+        "description": " один из двух изначальных змеев, которых игрок может встретить в игре. В отличие от другого змея, Фрампта, он преследует совсем другую цель и не заинтересован в продлении Эры Огня. Все действия змея направлены на усиление Бездны, свержение богов Анор Лондо и возвышение нового Темного Повелителя среди людей.",
+        "image": "https://static.wikia.nocookie.net/darksouls/images/2/28/Каас.jpg/revision/latest?cb=20130327105816&path-prefix=ru"
     }
   },
   {
     "id": "22",
     "attributes": {
          "name": "Quelana of Izalith",
-        "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "shortdescription": "персонаж-торговец",
+      "location":"Чумной Город",
+      "health":"-",
+      "soul":"1000",
+      "items":"Огненная буря",
+        "description": "Бойся пламени, иначе оно пожрёт тебя и испепелит твою душу. Не хотелось бы увидеть это ещё раз...",
+        "image": "https://uploads.worldanvil.com/uploads/images/63d6d1f05df69e9ba685d5b56d724a73.jpg"
     }
   },
   {
     "id": "23",
     "attributes": {
          "name": "Kirk, Knight of Thorns",
-      "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+      "shortdescription": "враждебный фантом",
+      "location":"Глубины, Руины Демонов, Забытый Изалит",
+      "health":"689",
+      "soul":"5,938 (Глубины),26,950 (Руины Демонов и Забытый Изалит)",
+      "items":"Зазубренный прямой меч,Шипастый щит",
+        "description": "Тёмный дух Кирка будет пытаться убить вас трижды за всю игру. Он экипирован в сет брони и оружия из шипов, которые вызывают кровотечение. После трёх его поражений его труп будет находиться около Прекрасной Госпожи, из чего можно сделать вывод, что он охотился на других мертвецов, дабы добывать человечность для облегчения страданий Прекрасной Госпожи.",
+        "image": "https://static.wikia.nocookie.net/darksouls/images/7/77/Kirk01.jpg/revision/latest?cb=20130326060500&path-prefix=ru"
     }
   },
   {
     "id": "24",
     "attributes": {
          "name": "Xanthous King, Jeremiah",
-        "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "shortdescription": "враждебный фантом",
+      "location":"Нарисованный мир Ариамиса",
+      "health":"-",
+      "soul":"3000",
+      "items":"Шипастый кнут, Человечность",
+        "description": "Король Иеремия был изгнан в Нарисованный мир вместе с остальными людьми с уродствами, но неизвестно по какой причине. Можно предположить, что оказавшись внутри он прислуживал Присцилле (или пытался добиться ее расположения) — его труп сидит на скамье за ее спиной, стало быть, она его пропустила, но он не стал уходить. То что он использует пиромантию хаоса наводит на мысль о том, что он, возможно, когда-то был связан с ведьмой Изалита.",
+        "image": "https://static.wikia.nocookie.net/darksouls/images/f/fe/Фантом_Иеримия.png/revision/latest?cb=20130602185224&path-prefix=ru"
     }
   },
   {
     "id": "25",
     "attributes": {
          "name": "Giant Blacksmith",
-       "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+      "shortdescription": "кузнец-торговец",
+      "location":"Анор Лондо",
+      "health":"-",
+      "soul":"3000",
+      "items":"Великанский молот",
+        "description": "В своём роде - уникальный кузнец, который может ковать оружие из душ. Также, при наличии кристального угля, он может ковать и улучшать кристальное оружие.",
+        "image": "https://static.wikia.nocookie.net/darksouls/images/3/36/Кузнец_Великан.jpg/revision/latest?cb=20130327105504&path-prefix=ru"
     }
   },
   {
     "id": "26",
     "attributes": {
          "name": "Laurentius of the Great Swamp",
-        "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "shortdescription": "персонаж-торговец",
+      "location":"Глубины → Храм Огня → Чумной Город",
+      "health":"-",
+      "soul":"1000",
+      "items":"-",
+        "description": "Его можно найти в бочке в начале прохождения в Глубины, и освобожденный, Лаврентий уйдет в Храм Огня.",
+        "image": "https://static.wikia.nocookie.net/darksouls/images/c/cb/Лаврентий_в_Храме_огня.jpg/revision/latest?cb=20130321062817&path-prefix=ru"
     }
   },
   {
@@ -346,12 +346,12 @@ data = [
     "attributes": {
          "name": "Forest Hunter Thief",
       "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
+      "location":"Сад Темных Корней",
+      "health":"900",
+      "soul":"2,000,  6,000 NG+",
+      "items":"-",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": "https://static.wikia.nocookie.net/darksouls/images/1/1f/Лесной_охотник_вор.jpg/revision/latest?cb=20140215121614&path-prefix=ru"
     }
   },
   {
@@ -359,12 +359,12 @@ data = [
     "attributes": {
          "name": "Forest Hunter Cleric",
         "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
+      "location":"Сад Темных Корней",
+      "health":"767",
+      "soul":"2,000,  6,000 NG+",
+      "items":"-",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": "https://static.wikia.nocookie.net/darksouls/images/9/9a/Лесной_охотник_клирик.jpg/revision/latest?cb=20140215114759&path-prefix=ru"
     }
   },
   {
@@ -372,12 +372,12 @@ data = [
     "attributes": {
          "name": " Forest Hunter Sorcerer",
        "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
+      "location":"Сад Темных Корней",
+      "health":"719",
+      "soul":"2,000,  6,000 NG+",
+      "items":"-",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": "https://static.wikia.nocookie.net/darksouls/images/c/c7/Лесной_охотник_маг.jpg/revision/latest?cb=20140215120444&path-prefix=ru"
     }
   },
   {
@@ -385,12 +385,12 @@ data = [
     "attributes": {
          "name": "Forest Hunter Bandit",
         "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
+      "location":"Сад Темных Корней",
+      "health":"900",
+      "soul":"1,000, 3,000 NG+",
+      "items":"-",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": "https://static.wikia.nocookie.net/darksouls/images/6/67/Лесной_охотник_бандит.jpg/revision/latest?cb=20140215115403&path-prefix=ru"
     }
   },
   {
@@ -398,68 +398,69 @@ data = [
     "attributes": {
          "name": "Forest Hunter Knight",
         "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
+      "location":"Сад Темных Корней",
+      "health":"849",
+      "soul":"3,000",
+      "items":"-",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": "https://static.wikia.nocookie.net/darksouls/images/c/c4/Лесной_охотник_рыцарь.jpg/revision/latest?cb=20140215122605&path-prefix=ru"
     }
   },
   {
     "id": "32",
     "attributes": {
-         "name": "Big Hat Logan",
-         "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+      "name": "Big Hat Logan",
+      "shortdescription": "Логан был знаменитым волшебником родом из Винхеймcкой Школы Драконов. Его легко узнать по фирменной большой шляпе.",
+      "location":"Крепость Сена → Храм Огня → Архивы Герцога",
+      "health":"1000",
+      "soul":"1,000",
+      "items":"Большая шляпа Железный, кристальный посох, Дыхание белого дракона",
+      "description": "Великий волшебник встречается несколько раз за игру и практически всегда требует нашей помощи.",
+      "image": "https://avatars.mds.yandex.net/i?id=481c0975936d7fb1cb463d8587df3af5_l-5238322-images-thumbs&n=13"
+         
     }
   },
   {
     "id": "33",
     "attributes": {
-         "name": "Knight Lautrec of Carim",
-         "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+      "name": "Knight Lautrec of Carim",
+      "shortdescription": "Рыцарь из Карима. ",
+      "location":"Уезд Нежити → Храм Огня → Анор Лондо",
+      "health":"1500",
+      "soul":" 1,000, 4000 NG+",
+      "items":"Кольцо защиты и поддержки Человечность x5 Душа Анастасии (убить в Анор Лондо) ",
+      "description": "Рыцарь из Карима. Сам представляется как Лотрек Исповедник. Мотивы Лотрека не ясны, но известно, что он отправился в паломничество во имя любви к богине Фине. Неизвестно, кто запер его в камере Уезда Нежити, и тем более, за что он там оказался. Его обещание спустить шкуру с Лоскутика наводит на некоторые подозрения.",
+      "image": "https://static.wikia.nocookie.net/darksouls/images/4/40/Лотрек_из_Карима.png/revision/latest?cb=20130122135904&path-prefix=ru"
     }
   },
   {
     "id": "34",
     "attributes": {
          "name": "Archer",
-        "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "shortdescription": "персонаж и мини-босс",
+      "location":"Сад Темных Корней",
+      "health":"1200",
+      "soul":"5,000",
+      "items":"Черный лук, Шляпа Фарис, Двойная человечность",
+        "description": "Является членом ковенанта Лесные Охотники и нападает на любого, кто вторгся без разрешения в Сад Темных Корней. С ней нельзя поговорить или как-либо взаимодействовать, кроме как напасть.",
+        "image": "https://static.wikia.nocookie.net/darksouls/images/f/ff/Фарис.jpg/revision/latest?cb=20131130173834&path-prefix=ru"
     }
   },
   {
     "id": "35",
     "attributes": {
          "name": "Maneater Mildred",
-        "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "shortdescription": "Бродячая женщина-каннибал",
+      "location":"Чумной Город, Владение Квилег",
+      "health":" 742, 1,424 [NG+], 1,780[NG+6]",
+      "soul":"8,748, 8,748[NG+], 8,748[NG+6]",
+      "items":"Мясницкий нож,Человечность х3",
+        "description": "Бродячая женщина-каннибал, которая обитает в районе ядовитой топи Чумного Города, отчаянно пытается найти себе жертву среди путников, чудом забредающих в этот забытый уголок. Судя по тощему голодному животу людоедки, она не слишком удачлива в своей охоте, в отличие от своих коллег мясников, хотя благодаря этому двигается достаточно быстро и довольно опасна.",
+        "image": "https://static.wikia.nocookie.net/darksouls/images/7/70/Людоедка_Милдред.png/revision/latest?cb=20180530095409&path-prefix=ru"
     }
   },
   {
-    "id": "40",
+    "id": "36",
     "attributes": {
          "name": "Undead Male Merchant",
          "shortdescription": "",
@@ -468,11 +469,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "41",
+    "id": "37",
     "attributes": {
          "name": "Nico of Thorolund",
         "shortdescription": "",
@@ -481,11 +482,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "42",
+    "id": "38",
     "attributes": {
          "name": "Giant Crow",
         "shortdescription": "",
@@ -494,11 +495,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "43",
+    "id": "39",
     "attributes": {
          "name": " Oswald of Carim",
        "shortdescription": "",
@@ -507,11 +508,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "44",
+    "id": "40",
     "attributes": {
          "name": "Oscar, Knight of Astora",
         "shortdescription": "",
@@ -520,11 +521,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "45",
+    "id": "41",
     "attributes": {
          "name": "Paladin Leeroy",
         "shortdescription": "",
@@ -533,11 +534,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "46",
+    "id": "42",
     "attributes": {
          "name": "Petrus of Thorolund",
          "shortdescription": "",
@@ -546,11 +547,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "47",
+    "id": "43",
     "attributes": {
          "name": "The Fair Lady",
          "shortdescription": "",
@@ -559,11 +560,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "48",
+    "id": "44",
     "attributes": {
          "name": "Crossbreed Priscilla",
         "shortdescription": "",
@@ -572,11 +573,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "49",
+    "id": "45",
     "attributes": {
          "name": " Reah of Thorolund",
         "shortdescription": "",
@@ -585,11 +586,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "50",
+    "id": "46",
     "attributes": {
          "name": "Rickert of Vinheim",
         "shortdescription": "",
@@ -598,11 +599,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "51",
+    "id": "47",
     "attributes": {
          "name": "Darkmoon Knightess",
         "shortdescription": "",
@@ -611,11 +612,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "52",
+    "id": "48",
     "attributes": {
          "name": "Lord's Blade Ciaran",
         "shortdescription": "",
@@ -624,11 +625,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "53",
+    "id": "49",
     "attributes": {
          "name": "Sieglinde of Catarina",
         "shortdescription": "",
@@ -637,11 +638,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "54",
+    "id": "50",
     "attributes": {
          "name": "Siegmeyer of Catarina",
          "shortdescription": "",
@@ -650,11 +651,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "55",
+    "id": "51",
     "attributes": {
          "name": "Great Grey Wolf Sif",
         "shortdescription": "",
@@ -663,11 +664,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "56",
+    "id": "52",
     "attributes": {
          "name": " Snuggly the Crow",
        "shortdescription": "",
@@ -676,11 +677,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "57",
+    "id": "53",
     "attributes": {
          "name": "Solaire of Astora",
         "shortdescription": "",
@@ -689,11 +690,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "58",
+    "id": "54",
     "attributes": {
          "name": "Black Iron Tarkus",
         "shortdescription": "",
@@ -702,11 +703,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "59",
+    "id": "55",
     "attributes": {
          "name": "Shiva's Bodyguard",
          "shortdescription": "",
@@ -715,11 +716,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "60",
+    "id": "56",
     "attributes": {
          "name": " Undead Female Merchant",
          "shortdescription": "",
@@ -728,11 +729,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "61",
+    "id": "57",
     "attributes": {
          "name": "Crestfallen Warrior",
         "shortdescription": "",
@@ -741,11 +742,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "62",
+    "id": "58",
     "attributes": {
          "name": "Crestfallen Merchant",
          "shortdescription": "",
@@ -754,11 +755,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "63",
+    "id": "59",
     "attributes": {
          "name": " Kingseeker Frampt",
         "shortdescription": "",
@@ -767,11 +768,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "64",
+    "id": "60",
     "attributes": {
          "name": "Havel the Rock",
         "shortdescription": "",
@@ -780,11 +781,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "65",
+    "id": "61",
     "attributes": {
          "name": " Marvellous Chester",
         "shortdescription": "",
@@ -793,11 +794,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "66",
+    "id": "62",
     "attributes": {
          "name": "Shiva of the East",
          "shortdescription": "",
@@ -806,11 +807,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "67",
+    "id": "63",
     "attributes": {
          "name": "Elizabeth",
         "shortdescription": "",
@@ -819,11 +820,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "68",
+    "id": "64",
     "attributes": {
          "name": "Eingyi",
         "shortdescription": "",
@@ -832,11 +833,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "69",
+    "id": "65",
     "attributes": {
          "name": "",
         "shortdescription": "",
@@ -845,11 +846,11 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   },
   {
-    "id": "70",
+    "id": "66",
     "attributes": {
          "name": "",
          "shortdescription": "",
@@ -858,7 +859,7 @@ data = [
       "soul":"",
       "items":"",
         "description": "",
-        "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
+        "image": ""
     }
   }
 ]
