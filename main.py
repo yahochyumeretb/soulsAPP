@@ -254,6 +254,18 @@ data = [
     "id": "20",
     "attributes": {
          "name": "Darkstalker Kaathe",
+        "shortdescription": "один из двух изначальных змеев, которых игрок может встретить в игре.",
+      "location":"Бездна",
+      "health":"-",
+      "soul":"-",
+      "items":"-",
+        "description": " один из двух изначальных змеев, которых игрок может встретить в игре. В отличие от другого змея, Фрампта, он преследует совсем другую цель и не заинтересован в продлении Эры Огня. Все действия змея направлены на усиление Бездны, свержение богов Анор Лондо и возвышение нового Темного Повелителя среди людей.",
+        "image": "https://static.wikia.nocookie.net/darksouls/images/2/28/Каас.jpg/revision/latest?cb=20130327105816&path-prefix=ru"
+  },
+  {
+    "id": "21",
+    "attributes": {
+         "name": "Stone Dragon",
         "shortdescription": "",
       "location":"",
       "health":"",
@@ -261,19 +273,6 @@ data = [
       "items":"",
         "description": "",
         "image": "https://i.pinimg.com/originals/0c/66/2a/0c662acc15b63e3c30113ae6ed8e7af5.jpg"
-    }
-  },
-  {
-    "id": "21",
-    "attributes": {
-         "name": "Stone Dragon",
-         "shortdescription": "один из двух изначальных змеев, которых игрок может встретить в игре.",
-      "location":"Бездна",
-      "health":"-",
-      "soul":"-",
-      "items":"-",
-        "description": " один из двух изначальных змеев, которых игрок может встретить в игре. В отличие от другого змея, Фрампта, он преследует совсем другую цель и не заинтересован в продлении Эры Огня. Все действия змея направлены на усиление Бездны, свержение богов Анор Лондо и возвышение нового Темного Повелителя среди людей.",
-        "image": "https://static.wikia.nocookie.net/darksouls/images/2/28/Каас.jpg/revision/latest?cb=20130327105816&path-prefix=ru"
     }
   },
   {
