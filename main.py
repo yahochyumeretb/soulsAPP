@@ -821,19 +821,6 @@ data = [
         "description": "",
         "image": ""
     }
-  },
-  {
-    "id": "64",
-    "attributes": {
-         "name": "Eingyi",
-        "shortdescription": "",
-      "location":"",
-      "health":"",
-      "soul":"",
-      "items":"",
-        "description": "",
-        "image": ""
-    }
   }
 ]
 
