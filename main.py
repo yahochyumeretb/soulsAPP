@@ -379,19 +379,6 @@ data = [
         "image": "https://static.wikia.nocookie.net/darksouls/images/c/c7/Лесной_охотник_маг.jpg/revision/latest?cb=20140215120444&path-prefix=ru"
     }
   },
-  {
-    "id": "30",
-    "attributes": {
-         "name": "Forest Hunter Bandit",
-        "shortdescription": "",
-      "location":"Сад Темных Корней",
-      "health":"900",
-      "soul":"1,000, 3,000 NG+",
-      "items":"-",
-        "description": "",
-        "image": "https://static.wikia.nocookie.net/darksouls/images/6/67/Лесной_охотник_бандит.jpg/revision/latest?cb=20140215115403&path-prefix=ru"
-    }
-  },
 
   
 ]
