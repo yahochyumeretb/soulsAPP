@@ -198,6 +198,21 @@ data = [
         "image": "https://i.playground.ru/p/AUI6ZPbU27UJLlGdxW1ttQ.jpeg"
     }
   },
+   {
+    "id": "16",
+    "attributes": {
+         "name": "Domhnall of Zena",
+        "shortdescription": "персонаж-торговец",
+      "location":"Глубины → Храм Огня",
+      "health":"-",
+      "soul":"1000",
+      "items":"-",
+        "description": "персонаж-торговец",
+        "image": "https://static.wikia.nocookie.net/darksouls/images/d/dc/Домналл_из_Зены.png/revision/latest?cb=20130327105547&path-prefix=ru"
+    }
+  },
+  
+  
 ]
 
 @app.get("/characters/")
