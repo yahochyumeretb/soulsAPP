@@ -250,18 +250,7 @@ data = [
         "image": "https://static.wikia.nocookie.net/darksouls/images/b/b7/Ингвард.jpg/revision/latest?cb=20130421140422&path-prefix=ru"
     }
   },
-  {
-    "id": "20",
-    "attributes": {
-         "name": "Darkstalker Kaathe",
-        "shortdescription": "один из двух изначальных змеев, которых игрок может встретить в игре.",
-      "location":"Бездна",
-      "health":"-",
-      "soul":"-",
-      "items":"-",
-        "description": " один из двух изначальных змеев, которых игрок может встретить в игре. В отличие от другого змея, Фрампта, он преследует совсем другую цель и не заинтересован в продлении Эры Огня. Все действия змея направлены на усиление Бездны, свержение богов Анор Лондо и возвышение нового Темного Повелителя среди людей.",
-        "image": "https://static.wikia.nocookie.net/darksouls/images/2/28/Каас.jpg/revision/latest?cb=20130327105816&path-prefix=ru"
-  },
+  
   
 ]
 
